@@ -1,0 +1,26 @@
+OG (Original)
+
+
+git clone https://github.com/techwithtim/Python-Socket-Chat-App.git
+
+BT Version
+
+git clone https://github.com/jamieduk/BlueTooth_Python_Chat/upload
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PIP issues with linux?
+
+
+curl https://bootstrap.pypa.io/pip/3.6/get-pip.py -o get-pip.py
+
+Then run the command:
+
+python3 get-pip.py
+
+
+pip install -r requirements.txt
+
+
