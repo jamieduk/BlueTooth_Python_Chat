@@ -8,6 +8,14 @@ BT Version
 git clone https://github.com/jamieduk/BlueTooth_Python_Chat/upload
 
 
+Forum
+
+https://jnet.forumotion.com/t1978-python-bluetooth-chat#3048
+
+
+Website
+
+jnet.club
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
